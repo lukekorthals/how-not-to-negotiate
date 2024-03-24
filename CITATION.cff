@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite it as below."
+authors:
+- family-names: "Lampe"
+  given-names: "Alina"
+- family-names: "Richardt"
+  given-names: "Chiara"
+- family-names: "Tank"
+  given-names: "Isabell"
+- family-names: "Korthals"
+  given-names: "Luke"
+  orcid: "https://orcid.org/0009-0006-2098-8679"
+title: "how-not-to-negotiate"
+version: 1.0.0
+date-released: 2018-07-04
+url: "https://github.com/lukekorthals/how-not-to-negotiate"
