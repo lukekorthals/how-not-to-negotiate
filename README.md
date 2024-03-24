@@ -1,2 +1,6 @@
-# how-not-to-negotiate
-Poster of the experimental internship during my bachelors
+# How (not) to negotiate
+The final poster of the experimental internship during our bachelors. 
+
+# Abstract
+Mental accounting is an important domain in negotiation research and thus earlier studies proposed a model of mental accounting in negotiation (MOMAN). The aim of this study is to replicate the results of Trötschel, Zhang & Majer (2018), who observed that creating multi-issue accounts leads to higher joint outcomes when compared to single-issue accounts and further emphasized the importance of the location of integrative potential in multi-issue accounts. In this study we compared the joint outcomes of single-issue accounts (1IA), all-issue accounts (AIA) and multi-issue accounts (4IA). Additionally the influence of letting participants create their own mental accounts was investigated, contrasting the approach by Trötschel et al. (2018). We also analyzed the underlying psychological processes and investigated if the relation between condition and joint outcomes is mediated by logrolling behavior. In line with our hypotheses, our results showed that participants creating all-issue accounts (AIA), as well as participants creating multi-issue accounts (4IA) achieved higher joint outcomes than participants in the single-issue account condition (1IA), but that there was no difference between the AIA condition and the 4IA condition. The mediation analysis revealed that logrolling behavior mediates the effect of condition on joint outcomes.
+
